@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sukanya Singh
+BSc Computer Science student at Shyama Prasad Mukherjee College, University of Delhi.
+Currently working on my programming fundamentals, DSA and web development. 
 
-<!--
-**sukanyasingh17/sukanyasingh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+C++  
+Python  
+SQL  
+HTML / CSS  
+JavaScript  
+Git & GitHub
 
-Here are some ideas to get you started:
+## Currently learning
+- Data Structures and Algorithms in C++
+- Web development
+- Databases
+  
+## Projects
+I'm currently building projects to improve my development skills and get
+more comfortable working on real-world problems.
+Some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Student Management System
+- Python projects
+- Data analysis projects
+- Web development projects
+
+## Education
+
+BSc (Hons.) Computer Science  
+Shyama Prasad Mukherjee College, University of Delhi
+
+LinkedIn: www.linkedin.com/in/sukanya-singh-ss17022007
+Email: suku07singh@gmail.com
